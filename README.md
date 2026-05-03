@@ -41,6 +41,9 @@ This project demonstrates practical applications of machine learning in:
 - Financial behavior analysis
 - Borrower segmentation
 - Predictive decision support
+## Key Takeaway
+
+Financial strain indicators, particularly debt burden and prior default history, were the strongest predictors of loan default risk. The analysis consistently showed that borrower financial stability plays a major role in repayment outcomes, reinforcing the value of data-driven credit risk assessment.
 
 ## Repository Structure
 
@@ -54,8 +57,3 @@ loan-default-risk-predictor/
 │── data/
 │── results/
 └── README.md
-
-
-## Key Takeaway
-
-Financial strain indicators, particularly debt burden and prior default history, were the strongest predictors of loan default risk. The analysis consistently showed that borrower financial stability plays a major role in repayment outcomes, reinforcing the value of data-driven credit risk assessment.
