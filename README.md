@@ -8,6 +8,9 @@ This project analyzes 32,000+ real-world borrower records to identify the strong
 
 Using data cleaning, exploratory analysis, and predictive modeling, this project evaluates both statistical relationships and machine learning performance in credit risk prediction.
 
+## Project Video:
+https://youtu.be/IqYbh5x8Z3M
+
 ## Key Results
 
 - 87.7% Random Forest Accuracy
